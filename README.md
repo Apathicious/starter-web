@@ -20,4 +20,4 @@ Vær så snill, gi kaptein Kabelsatan det han vil ha. Ellers går'e gæli.
 
 Men var det egentlig nok? Det er den reelle fråga.
 
-2020 Kaptein Kabelsatan
+2020 Kaptein Kabelsatan ALT GULL RESERVERT.
