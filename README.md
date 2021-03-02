@@ -1,7 +1,7 @@
-# Starter Web Repo
+# Hei
 
-This repository is for showing how Git and GitHub work
+## Hade?
 
-## Purpose
+## Velkømmin te bords?
 
-Sample website with plenty of files for demos
+## Ok. nå er det nok
