@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Takk til alle rånerene fra Stryn, dere er de som gjorde dette mulig!
 
 # TECHNOLOGY COLOPHON
 
