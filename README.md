@@ -13,3 +13,5 @@ Bortsett fra at jeg allerede har gjort det. :(
 ## Ok. nå er det nok
 
 Men var det egentlig nok? Det er den reelle fråga.
+
+2020 Kaptein Kabelsatan
