@@ -1,1 +1,3 @@
 systemfil_helt_serr.py
+*.log
+/log
