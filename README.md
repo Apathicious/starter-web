@@ -6,6 +6,8 @@ Ny linje, for et eller annet eksempel.
 
 Jammen, assa.
 
+Enda flere linjer.
+
 ## Velkømmin te bords?
 
 Forandring fryder.
